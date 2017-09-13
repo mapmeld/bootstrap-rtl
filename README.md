@@ -1,5 +1,7 @@
 # Bootstrap 3 RTL Theme
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/slang-group/bootstrap-rtl.svg)](https://greenkeeper.io/)
+
 ---
 
 ***Note: Hopefully, they will add rtl support to the next major release of bootstrap, so this project will be absolete. However, it's going to be updated for the next 3.x releases.***
